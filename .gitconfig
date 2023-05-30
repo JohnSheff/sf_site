@@ -1,0 +1,7 @@
+[user]
+	email = mdt-pro@mail.ru
+	name = JohnSheff
+[alias]
+	history = log --graph
+[core]
+	editor = webstorm
